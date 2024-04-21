@@ -17,6 +17,7 @@ vii) Review the BOM to ensure accuracy and completeness. </br>
 viii) Organize the BOM in a clear and logical format. Use tables or spreadsheets to present the information in a structured manner </br>
 
 ## THEORY:
+
 ### What is a BOM?”
 A bill of materials (BOM) is an extensive list documenting all the parts and components required to build an electronic product based on a printed circuit board (PCB) design. The BOM serves as a master guide through the entire manufacturing process spanning across procurement, assembly, testing and fulfillment stages.For any complex piece of electronic equipment containing hundreds or thousands of discreet parts that need to be sourced, populated and validated, maintaining an accurate BOM is absolutely essential for managing production. Without a properly structured BOM guiding both human operators and automated systems, assembling modern PCBs would essentially be impossible.So in essence, the bill of materials is at the core of translating a completed PCB hardware design into a physical reality.
 
@@ -51,9 +52,11 @@ During the product life, components may fail needing repair or upgrade. Here the
 •	Diagnostics — Expected voltages, signal values </br>
 
 ## CIRCUIT DIAGRAM:
+
 ![WhatsApp Image 2024-04-04 at 10 03 42_3c68647e](https://github.com/Yuvaranithulasingam/Bill-of-Materials-for-PCB-Design/assets/121418522/6e4219e3-b2d0-4c2e-9404-4ec96a3e38b7)
 
 ## OUTPUT:
+
 ![image](https://github.com/Yuvaranithulasingam/Bill-of-Materials-for-PCB-Design/assets/121418522/703d06f8-b568-4608-8f52-33395bdf8fc6)
 
 ## RESULT: 
